@@ -56,8 +56,8 @@ This project leverages modern technologies and methodologies such as Python, Fla
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/VARKALASAIVIGNESH/RAG-Chatbot.git
+cd RAG-Chatbot
 
 # Setup virtual environment
 python -m venv venv
