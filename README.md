@@ -1,7 +1,7 @@
 
-# Project Title
+# RAG Chatbot
 
-A brief description of your project, its purpose, and the main technologies involved.
+An intelligent bot built with Flask and large language models, combining embeddings and FAISS-based retrieval to enhance user interactions. It supports secure API access, scalable deployment with Docker and Kubernetes, and interactive visualization using Streamlit, designed for seamless integration into business workflows.
 
 ---
 
