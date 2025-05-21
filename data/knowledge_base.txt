@@ -1,0 +1,401 @@
+Python is a popular programming language known for its readability and versatility. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Flask is a lightweight web framework for Python that allows developers to create web applications quickly. It is known for its simplicity and flexibility.
+
+Machine learning is a subset of artificial intelligence that focuses on building systems that learn from data to make predictions or decisions without being explicitly programmed.
+
+The Transformer architecture revolutionized natural language processing by introducing self-attention mechanisms, enabling better context understanding in sequences of data.
+
+OpenAI's GPT models are large-scale language models trained on diverse internet text to generate human-like responses and perform a variety of language tasks.
+
+FAISS (Facebook AI Similarity Search) is a library for efficient similarity search and clustering of dense vectors. It is often used for nearest neighbor search in embeddings.
+
+LangChain is a framework designed to help developers build applications powered by large language models, focusing on integrating language models with external data sources.
+
+Embeddings convert text into numerical vectors capturing semantic meaning, allowing similarity searches and other machine learning tasks on text data.
+
+Retrieval-Augmented Generation (RAG) combines traditional information retrieval with language models to improve the accuracy and relevance of generated responses.
+
+The cosine similarity metric measures the cosine of the angle between two vectors, often used to compare embeddings for similarity.
+
+JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate.
+
+CSV (Comma-Separated Values) files store tabular data in plain text, where each line corresponds to a row and each value is separated by a comma.
+
+Data preprocessing involves cleaning and transforming raw data into a suitable format for machine learning models or analysis.
+
+Streamlit is an open-source app framework that allows data scientists and ML engineers to create interactive web applications with minimal code.
+
+GitHub is a platform for hosting and collaborating on code repositories, widely used in software development projects.
+
+APIs (Application Programming Interfaces) allow different software applications to communicate with each other by defining a set of rules and protocols.
+
+Docker enables containerization of applications, providing consistent environments across development, testing, and production.
+
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+
+Cloud computing platforms such as AWS, Azure, and Google Cloud provide on-demand computing resources and services over the internet.
+
+SQL (Structured Query Language) is used to manage and query relational databases, allowing operations such as insert, update, delete, and select.
+
+NoSQL databases, like MongoDB and Cassandra, provide flexible schemas and horizontal scaling, suitable for unstructured or semi-structured data.
+
+Regular expressions are patterns used to match character combinations in strings, useful for searching and text manipulation.
+
+The Unix shell is a command-line interface used to interact with the operating system using commands and scripts.
+
+Version control systems like Git track changes to source code, enabling collaboration and history management.
+
+Object-Oriented Programming (OOP) is a programming paradigm based on the concept of "objects" containing data and methods.
+
+Functional programming emphasizes the use of pure functions, immutability, and higher-order functions.
+
+Neural networks are computational models inspired by the human brain, used extensively in deep learning for tasks like image and speech recognition.
+
+Gradient descent is an optimization algorithm used to minimize the loss function during machine learning model training.
+
+Hyperparameters are configuration settings used to tune the behavior of machine learning algorithms.
+
+Cross-validation is a technique for assessing how the results of a statistical analysis will generalize to an independent dataset.
+
+Natural Language Processing (NLP) enables computers to understand, interpret, and generate human language.
+
+Tokenization is the process of splitting text into smaller pieces called tokens, which can be words, characters, or subwords.
+
+Sentiment analysis is a common NLP task that determines the sentiment expressed in text, such as positive, negative, or neutral.
+
+Attention mechanisms in neural networks allow models to focus on relevant parts of input sequences dynamically.
+
+Reinforcement learning is a machine learning paradigm where agents learn to make decisions by interacting with an environment.
+
+The Turing Test is a measure of a machine's ability to exhibit intelligent behavior indistinguishable from a human.
+
+Cloud-native applications are designed specifically to leverage cloud environments, including scalability and resilience.
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten development life cycles.
+
+Continuous Integration/Continuous Deployment (CI/CD) pipelines automate the testing and deployment of applications.
+
+Microservices architecture breaks down applications into loosely coupled, independently deployable services.
+
+Big Data refers to extremely large datasets that require specialized tools for storage, processing, and analysis.
+
+Data visualization tools such as Matplotlib, Seaborn, and Tableau help in understanding data patterns visually.
+
+Artificial Neural Networks have layers including input, hidden, and output layers to model complex functions.
+
+Overfitting occurs when a model learns noise in the training data rather than the actual pattern, resulting in poor generalization.
+
+Underfitting happens when a model is too simple to capture the underlying pattern in data.
+
+The bias-variance tradeoff is a fundamental concept balancing model complexity and generalization.
+
+API keys are used to authenticate and authorize applications accessing APIs.
+
+Cross-Origin Resource Sharing (CORS) is a security feature implemented in browsers to control resource sharing between different origins.
+
+HTTP status codes indicate the result of an HTTP request, such as 200 OK or 404 Not Found.
+
+RESTful APIs follow architectural principles to provide stateless, client-server communication over HTTP.
+
+OAuth is an open standard for access delegation, commonly used for token-based authentication.
+
+JSON Web Tokens (JWT) are compact tokens used to securely transmit information between parties as a JSON object.
+
+SSL/TLS protocols provide encryption and secure communication over networks.
+
+Unit testing involves testing individual components of software to ensure they work as intended.
+
+Integration testing checks how different modules work together.
+
+Agile development is a methodology that promotes iterative development and collaboration.
+
+Scrum is an Agile framework for managing projects using fixed-length iterations called sprints.
+
+Kanban is a visual workflow management method aimed at continuous delivery.
+
+The Python Package Index (PyPI) is a repository of software for the Python programming language.
+
+Virtual environments help manage project-specific dependencies in Python.
+
+Jupyter Notebooks provide an interactive computing environment to combine code execution, rich text, and visualization.
+
+The Command Line Interface (CLI) allows users to interact with software via text commands.
+
+JSON Schema defines the structure and validation rules for JSON documents.
+
+Apache Spark is a unified analytics engine for big data processing.
+
+Hadoop is an open-source framework for distributed storage and processing of large data sets.
+
+Graph databases like Neo4j store data in graph structures for highly connected data.
+
+The Internet of Things (IoT) refers to interconnected devices capable of collecting and exchanging data.
+
+Edge computing brings computation closer to data sources to reduce latency and bandwidth usage.
+
+Quantum computing uses quantum-mechanical phenomena to perform computation.
+
+The Semantic Web aims to make internet data machine-readable through linked data.
+
+5G technology offers higher speeds, reduced latency, and increased connectivity.
+
+Blockchain is a decentralized ledger technology enabling secure and transparent transactions.
+
+Cryptography involves techniques for secure communication and data protection.
+
+Deep learning models use multiple layers to learn representations of data with increasing levels of abstraction.
+
+Convolutional Neural Networks (CNNs) are specialized neural networks for processing grid-like data such as images.
+
+Recurrent Neural Networks (RNNs) are designed to handle sequential data like time series or text.
+
+Long Short-Term Memory (LSTM) networks address the vanishing gradient problem in RNNs.
+
+Transfer learning reuses a pre-trained model on a new task to reduce training time and improve performance.
+
+Data augmentation artificially increases dataset size by creating modified versions of data samples.
+
+Ethical AI focuses on creating AI systems that are fair, transparent, and accountable.
+
+Bias in AI models can lead to unfair treatment of certain groups.
+
+Explainable AI (XAI) aims to make AI decision-making understandable to humans.
+
+The Internet was invented in the late 1960s and has revolutionized communication worldwide.
+
+HTML (HyperText Markup Language) is the standard language for creating web pages.
+
+CSS (Cascading Style Sheets) describes how HTML elements are displayed on screen.
+
+JavaScript is a programming language that enables interactive web pages.
+
+Responsive web design ensures web content looks good on all device sizes.
+
+Progressive Web Apps (PWAs) combine the best of web and mobile apps.
+
+Web accessibility makes websites usable by people with disabilities.
+
+SEO (Search Engine Optimization) improves website visibility on search engines.
+
+Content Management Systems (CMS) like WordPress enable easy website content editing.
+
+E-commerce platforms allow buying and selling of goods online.
+
+Social media platforms have transformed communication and marketing strategies.
+
+Cloud storage services provide online file storage accessible from any device.
+
+Cybersecurity protects networks, devices, and data from unauthorized access.
+
+Phishing attacks trick users into revealing sensitive information.
+
+Firewalls act as barriers to protect networks from malicious traffic.
+
+VPNs (Virtual Private Networks) provide secure, encrypted connections over the internet.
+
+Open source software is software with source code freely available for modification and distribution.
+
+Software licenses govern how software can be used and shared.
+
+Data ethics involves responsible handling and use of data.
+
+The digital divide refers to the gap between those who have access to digital technologies and those who do not.
+
+Machine translation enables automatic translation between languages.
+
+Speech recognition converts spoken language into text.
+
+Chatbots simulate human conversation using AI techniques.
+
+Virtual reality (VR) and augmented reality (AR) create immersive experiences.
+
+3D printing builds physical objects from digital models.
+
+Renewable energy sources include solar, wind, and hydroelectric power.
+
+Climate change poses significant risks to ecosystems and human societies.
+
+Sustainable development seeks to meet present needs without compromising future generations.
+
+Open data initiatives promote free access to data for transparency and innovation.
+
+Crowdsourcing gathers information or services from a large group of people.
+
+Big Tech companies include Google, Apple, Microsoft, Amazon, and Facebook.
+
+The Global Positioning System (GPS) provides location and time information globally.
+
+Autonomous vehicles use AI to navigate without human intervention.
+
+Smart cities use technology to improve urban living.
+
+Wearable technology includes devices like smartwatches and fitness trackers.
+
+Data privacy laws regulate how personal information is collected and used.
+
+The General Data Protection Regulation (GDPR) is a European data privacy law.
+
+Social engineering exploits human psychology to gain confidential information.
+
+Zero trust security assumes no implicit trust and requires verification for all access.
+
+The DevSecOps approach integrates security practices into the DevOps process.
+
+Cloud-native security designs protection mechanisms specific to cloud environments.
+
+Cyber-physical systems integrate computation with physical processes.
+
+Digital twins are virtual representations of physical assets or systems.
+
+Data lakes store large amounts of raw data in its native format.
+
+Metadata provides information about other data, facilitating organization and search.
+
+Data governance establishes policies and standards for data management.
+
+Business intelligence uses data analysis to support decision-making.
+
+Data science combines domain expertise, programming skills, and statistics to extract insights from data.
+
+Statistical significance tests determine the likelihood that results are due to chance.
+
+Hypothesis testing evaluates assumptions about data populations.
+
+Regression analysis models relationships between variables.
+
+Classification algorithms assign items to predefined categories.
+
+Clustering groups similar items together based on features.
+
+Anomaly detection identifies unusual patterns that do not conform to expected behavior.
+
+The Internet Protocol (IP) is the principal communications protocol for relaying packets across networks.
+
+TCP (Transmission Control Protocol) ensures reliable data transmission over IP networks.
+
+DNS (Domain Name System) translates domain names into IP addresses.
+
+HTTP (Hypertext Transfer Protocol) is the foundation of data communication on the web.
+
+SMTP (Simple Mail Transfer Protocol) is used for sending email messages.
+
+POP3 and IMAP are protocols for retrieving emails.
+
+SSL certificates authenticate websites and enable encrypted connections.
+
+Firewalls, intrusion detection systems, and antivirus software form layers of cybersecurity defense.
+
+Digital forensics investigates cybercrimes by analyzing digital evidence.
+
+Penetration testing simulates cyberattacks to identify security vulnerabilities.
+
+Bug bounty programs incentivize security researchers to find software flaws.
+
+Artificial General Intelligence (AGI) refers to a machine's ability to understand or learn any intellectual task that a human can.
+
+Singularity is a hypothetical future point when AI surpasses human intelligence.
+
+Ethical hacking involves authorized attempts to breach system security.
+
+Social networks model relationships and interactions between individuals.
+
+The Turing Award is the highest distinction in computer science.
+
+Alan Turing was a pioneering computer scientist and mathematician.
+
+Ada Lovelace is often considered the first computer programmer.
+
+The first programmable computer was the Z3, developed in 1941.
+
+Moore's Law observed that the number of transistors on integrated circuits doubles approximately every two years.
+
+Quantum supremacy refers to a quantum computer performing a task infeasible for classical computers.
+
+Cloud functions enable event-driven, serverless computing.
+
+Edge AI brings AI processing to edge devices for faster response times.
+
+Federated learning allows machine learning models to be trained across decentralized devices while preserving data privacy.
+
+Zero-shot learning enables models to perform tasks without explicit training on them.
+
+Explainability and fairness remain major challenges in AI development.
+
+Human-computer interaction studies how people interact with computers.
+
+User experience (UX) design focuses on optimizing usability and satisfaction.
+
+Accessibility standards ensure technology is usable by people with disabilities.
+
+The Model-View-Controller (MVC) architecture separates an application into three interconnected components.
+
+Single Page Applications (SPA) provide a smooth user experience by dynamically updating content without page reloads.
+
+GraphQL is a query language for APIs, allowing clients to request exactly the data they need.
+
+Progressive enhancement ensures web content works for everyone, regardless of browser capabilities.
+
+Cross-browser compatibility is essential for web applications to function properly across different browsers.
+
+Localization adapts software for different languages and regions.
+
+Internationalization prepares software to be easily localized.
+
+Container orchestration automates the management of containerized applications.
+
+Infrastructure as Code (IaC) uses code to manage and provision infrastructure.
+
+Continuous monitoring helps ensure software reliability and security.
+
+Chaos engineering tests system resilience by introducing controlled failures.
+
+Site Reliability Engineering (SRE) applies software engineering principles to infrastructure and operations.
+
+Incident response plans prepare teams to handle IT outages and cyberattacks.
+
+DevOps culture promotes collaboration between development and operations teams.
+
+The Agile Manifesto emphasizes individuals and interactions, working software, customer collaboration, and responding to change.
+
+User stories capture requirements from an end-user perspective.
+
+Pair programming involves two developers working together at one workstation.
+
+Code reviews improve code quality and knowledge sharing.
+
+Technical debt refers to the implied cost of additional rework caused by choosing an easy solution now.
+
+Refactoring improves code structure without changing functionality.
+
+Design patterns provide reusable solutions to common software design problems.
+
+The SOLID principles guide object-oriented software design.
+
+Test-driven development (TDD) encourages writing tests before code.
+
+Behavior-driven development (BDD) focuses on specifying behavior through examples.
+
+Continuous delivery automates software release processes to deploy code quickly and safely.
+
+Serverless computing abstracts infrastructure management, enabling developers to focus on code.
+
+Graph theory studies relationships in data using nodes and edges.
+
+Data warehouses store integrated data from multiple sources optimized for analysis.
+
+Machine ethics explores moral behavior in AI systems.
+
+Cyber-physical attacks target the interaction between computers and physical systems.
+
+Augmented analytics uses AI to enhance data analytics processes.
+
+Explainable recommendation systems aim to make suggestions transparent to users.
+
+Swarm intelligence is inspired by collective behavior of decentralized systems like ant colonies.
+
+Quantum encryption leverages principles of quantum mechanics to secure communication.
+
+Neuro-symbolic AI combines neural networks with symbolic reasoning.
+
+The future of AI includes advances in natural language understanding, autonomous systems, and human-AI collaboration.

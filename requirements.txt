@@ -1,0 +1,6 @@
+flask
+langchain
+faiss-cpu
+openai
+python-dotenv
+tiktoken
