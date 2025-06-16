@@ -2,7 +2,7 @@
 # RAG Chatbot
 
 An intelligent bot built with Flask and large language models, combining embeddings and FAISS-based retrieval to enhance user interactions. It supports secure API access, scalable deployment with Docker and Kubernetes, and interactive visualization using Streamlit, designed for seamless integration into business workflows.
-
+**VIDEO**: https://drive.google.com/file/d/1C4oOzuJPsu3o8tBwh7BkugHo9xwnuLbM/view?usp=sharing
 ---
 
 ## Overview
